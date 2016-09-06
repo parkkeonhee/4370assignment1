@@ -1,0 +1,77 @@
+body{
+	background-image: url("../photos/midtown.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Sans-Serif;
+}
+
+p.whiteFontOnBackground, h1, h2, ul, li{
+	color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.lists{
+	color: red;
+}
+
+a:hover{
+	color: white;
+	background-color: yellow;
+}
+
+#externalLink1{
+        width: 25%;
+    margin: 0 auto;
+}
+
+#externalLink2{
+        width: 50%;
+    margin: 0 auto;
+}
+
+#externalLink3{
+        width: 75%;
+    margin: 0 auto;
+}
+
+.centering{
+	text-align: center;
+}
+
+.validatorIcons{
+	border:0;
+	width:88px;
+	height:31px;
+}
+
+#Keonhee{
+	width:15%;
+	height:15%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#assignments{
+	background-color: white;
+	width:18%
+}
+
+span{
+	color: red;
+	font-weight: bold;
+}
+
+.odd{
+	background-color: gray;
+}
+
+.transparentDiv{
+	background-color: rgba(244,244,244,0.5);
+	padding: 30px;
+	margin: 20px;
+}
+
+#favoriteQuoteP{
+	font-size: 25px;
+}
